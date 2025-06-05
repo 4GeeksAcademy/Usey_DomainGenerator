@@ -3,3 +3,8 @@
 body{
     background: white;
 }
+#domain {
+    background-color: rgb(234, 221, 251);
+    border-style:double;
+    font-size: small;
+}
